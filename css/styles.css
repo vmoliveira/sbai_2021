@@ -1,14 +1,40 @@
 .footer {
-    background-color: #129AB3;
-    margin: 0px auto;
-    padding: 20px 0px;
-  }
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    background-color: #87ceeb;
+    text-align: center;
+
+}
 
 .navbar {
-    background-color: #124fb3;
+    background-color: #00bfff;
     text-color: white;
 }
 
-.Jumbotron {
-    color: #08d9ff;
+.card, .card-body{
+    background-color: #b0e0e6;
+}
+
+.list-group{
+
+}
+
+.jumbotron{
+    background-color: #add8e6;
+}
+
+#main{
+    background-color: #87ceeb;
+}
+
+.container{
+    margin-block-end: 0%;
+    margin-bottom: 3%;
+    
+}
+
+.list-group-item{
+    background-color: #87ceeb;
 }
